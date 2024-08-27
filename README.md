@@ -1,4 +1,6 @@
 Teacher Rewards Smart Contract
+![image](https://github.com/user-attachments/assets/3c1f6428-3a82-4f05-92c6-5daa8e6cc494)
+
 Vision
 The Teacher Rewards Smart Contract is designed to reward educators based on their performance. This decentralized application ensures transparency and efficiency in the reward distribution process, leveraging blockchain technology to provide an immutable record of performance scores and reward transactions.
 
