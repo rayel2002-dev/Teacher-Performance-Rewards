@@ -49,8 +49,8 @@ Audit and Security: Perform comprehensive security audits and incorporate best p
 Contact
 For further inquiries or contributions, please contact:
 
-Name: [Your Name]
-Email: [Your Email]
-GitHub: [Your GitHub Profile]
+Name: Rayel Powdel
+Email: rayelpowdel6@gmail.com
+
 
  
