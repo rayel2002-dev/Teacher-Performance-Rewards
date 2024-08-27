@@ -39,7 +39,7 @@ Copy code
 +---------------------------+
 Contract Address
 The contract address for the deployed Teacher Rewards Smart Contract is not yet available as the contract needs to be deployed to a blockchain network. You will receive the contract address after deployment.
-
+0x300629ae18b55DB7b7C45a766c4911C7Ba0a32d3
 Future Scope
 Performance Metrics Enhancement: Implement more sophisticated performance evaluation criteria and metrics.
 Reward Calculation Improvement: Introduce dynamic reward calculation mechanisms based on performance thresholds or additional factors.
